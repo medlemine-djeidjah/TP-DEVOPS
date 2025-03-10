@@ -5,7 +5,7 @@ stage('Checkout') {
 steps {
 // Récupère le code depuis le dépôt GitHub
 git
-'https://github.com/yourusername/yourrepository.git'
+'https://github.com/medlemine-djeidjah/TP-DEVOPS'
 }
 }
 stage('Compile') {
